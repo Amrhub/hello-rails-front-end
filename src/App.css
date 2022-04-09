@@ -1,0 +1,19 @@
+.link {
+  color: white;
+  background-color: rgb(1, 114, 114);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+body {
+  padding: 4rem;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
